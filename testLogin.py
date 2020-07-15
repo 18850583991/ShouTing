@@ -56,3 +56,8 @@ class TestLogin(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+    
+def test():
+    pass;
+
+
